@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hillary Clinton&#39;s Emails | Kaggle</title>
+    <meta charset="utf-8" />
+    <meta name="robots" content="index, follow"/>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+    <link href="/content/v/4e3f994e938b/kaggle/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic" rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="/static/css/kaggle-newworld-sitelayout.css?v=cd5f7371ebe5" />
+    <link rel="stylesheet" type="text/css" href="/static/css/kaggle-newworld.css?v=9634de494d80" />
+
+    <script type="text/javascript">
+        var appInsights=window.appInsights||function(config){
+        function i(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",y=u.createElement(o),r,f;y.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(y);try{t.cookie=u.cookie}catch(p){}for(t.queue=[],t.version="1.0",r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)i("track"+r.pop());return i("set"+s),i("clear"+s),i(h+a),i(c+a),i(h+v),i(c+v),i("flush"),config.disableExceptionTracking||(r="onerror",i("_"+r),f=e[r],e[r]=function(config,i,u,e,o){var s=f&&f(config,i,u,e,o);return s!==!0&&t["_"+r](config,i,u,e,o),s}),t
+        }({
+            instrumentationKey:"5b3d6014-f021-4304-8366-3cf961d5b90f"
+        });
+
+        window.appInsights=appInsights;
+        appInsights.trackPageView();
+    </script>
+
+    
+    
+    
+ 
+    
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-12629138-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+
+            <script>
+            (function() {
+                console.log(
+                    " _                       _       \n" +
+                    "| |    Welcome to       | |      \n" +
+                    "| | __ ___   __ _  __ _ | | ___  \n" +
+                    "| |/ /|__ \\ / _` |/ _` || |/ _ \\ \n" +
+                    "|   < / _  | (_| | (_| || |  __/ \n" +
+                    "|_|\\_\\\\__,_|\\__, |\\__, ||_|\\___| \n" +
+                    "             __/ | __/ |         \n" +
+                    "            |___/ |___/          \n\n" +
+                    "I see you are really digging into    \n" +
+                    "our site! Well, if you like what you \n" +
+                    "see and are interested in becoming   \n" +
+                    "part of our tight-knit team, head to \n" +
+                    "https://www.kaggle.com/careers ᕕ(ᐛ)ᕗ\n" +
+                    "We're remote-friendly and maintain a \n" +
+                    "low-ego culture. Seriously, check us \n" +
+                    "out.                                 \n\n" +
+                    "the Kaggle team <3"
+                );
+            })();
+        </script>
+    
+
+    <script>
+          window.intercomSettings = {
+            app_id: "koj6gxx6"
+          };
+    </script>
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/koj6gxx6';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+</head>
+<body>
+    
+
+
+<div class="wrapper">
+<div id="react-SiteHeaderContainer-2"></div>
+    <div class="main-content">
+        
+
+<div id="react-DatasetContainer-1"></div>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        "HTML-CSS": {
+            preferredFont: "TeX",
+            availableFonts: ["STIX", "TeX"],
+            linebreaks: {
+                automatic: true
+            },
+            EqnChunk: (MathJax.Hub.Browser.isMobile ? 10 : 50)
+        },
+        tex2jax: {
+            inlineMath: [["\\\\(", "\\\\)"]],
+            displayMath: [["$$", "$$"], ["\\[", "\\]"]],
+            processEscapes: true,
+            ignoreClass: "tex2jax_ignore|dno"
+        },
+        TeX: {
+            noUndefined: {
+                attributes: {
+                    mathcolor: "red",
+                    mathbackground: "#FFEEEE",
+                    mathsize: "90%"
+                }
+            }
+        },
+        Macros: {
+            href: "{}"
+        },
+        messageStyle: "none"
+    });
+</script>
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+
+    </div>
+
+<footer class="site-footer">
+    <div class="site-footer__content">
+        <div class="site-footer__copyright">
+            <span>&copy; 2016 Kaggle Inc</span>
+        </div>
+        <nav class="site-footer__nav">
+            <a href="/team">Our Team</a>
+            <a href="/careers">Careers</a>
+            <a href="/terms">Terms</a>
+            <a href="/privacy">Privacy</a>
+            <a href="/contact">Contact/Support</a>
+        </nav>
+        <nav class="site-footer__social">
+            <a class="site-footer__social--twitter" href="http://www.twitter.com/kaggle" title="Follow Kaggle on Twitter"></a>
+            <a class="site-footer__social--facebook" href="http://www.facebook.com/kaggle" title="Follow Kaggle on Facebook"></a>
+            <a class="site-footer__social--linkedin" href="http://www.linkedin.com/companies/kaggle" title="Follow Kaggle on LinkedIn"></a>
+        </nav>
+    </div>
+</footer>
+
+</div>
+
+
+<script type="text/javascript">
+    var Kaggle = Kaggle || {};
+    Kaggle.Current = {
+        isAnonymous: true,
+        
+        
+        
+    }
+        Kaggle.Current.log = function(){};
+        Kaggle.Current.warn = function(){};
+</script>
+
+
+
+
+
+<script type="text/javascript">
+    var Kaggle = Kaggle || {};
+    Kaggle.PageMessages = [];
+</script>
+
+
+
+<script type="text/javascript" src="/content/v/47b68dce8cb6/shared/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/static/js/react.min.js"></script>
+<script type="text/javascript" src="/static/js/react-dom.min.js"></script>
+<script type="text/javascript" src="/static/vendor.js?v=99a60e80a00e"></script>
+<script type="text/javascript" src="/static/react-components.js?v=82bbb24616e0"></script><script type="text/javascript">
+ReactDOM.render(React.createElement(KaggleReactComponents.DatasetContainer, {"datasetVersionId":466,"datasetVersionNumber":2,"lastVersionNumber":2,"status":"ready","isSavingNewVersion":false,"newDatasetVersionStatus":"ready","currentStatusPercentComplete":1.0,"datasetUrl":"/kaggle/hillary-clinton-emails","originalImageUrl":"","coverImageUrl":"https://kaggle2.blob.core.windows.net/datasets-images/10/10/default-backgrounds/dataset-cover.jpg","cardImageUrl":null,"thumbnailImageUrl":"https://kaggle2.blob.core.windows.net/datasets-images/10/10/default-backgrounds/dataset-thumbnail.jpg","license":"Released Under \u003ca href=\u0022https://creativecommons.org/publicdomain/zero/1.0/\u0022 target=\u0022_blank\u0022\u003eCC0: Public Domain License\u003c/a\u003e","voteCount":120,"upVoteUrl":"/kaggle/hillary-clinton-emails/vote","ownerProfileUrl":"/kaggle","ownerAvatarUrl":"https://kaggle2.blob.core.windows.net/organizations/4/thumbnail.png","ownerDisplayName":"Kaggle","ownerSlug":"kaggle","creatorUserId":993,"creatorDisplayName":"Ben Hamner","lastUpdated":"2016-10-06T03:04:14.873Z","downloadUrl":"/kaggle/hillary-clinton-emails/downloads/hillary-clinton-emails.zip","downloadSize":14198182,"newNotebookUrl":"/kaggle/hillary-clinton-emails/kernels/notebooks/new","newScriptUrl":"/kaggle/hillary-clinton-emails/kernels/scripts/new","hasAlreadyVotedUp":false,"isOldDatasetVersion":false,"maxUncompressedFileBytesAllowed":524288000,"maxCompressedFileBytesAllowed":524288000,"maxTopLevelFilesAllowed":20,"numberOfViews":78346,"numberOfDownloads":7912,"numberOfScripts":468,"numberOfTopics":35,"privateGroupMemberCount":0,"canEdit":false,"canEditSlug":false,"canEditPublishStatus":false,"canEditFeatureStatus":false,"canEditPrivateGroup":false,"isNewDataset":false,"hideVersionStatuses":true,"cardImageLeft":null,"cardImageTop":null,"cardImageWidth":null,"cardImageHeight":null,"coverImageLeft":null,"coverImageTop":null,"coverImageWidth":null,"coverImageHeight":null,"scripts":[{"name":"President 2016 - NLTK","url":"/the1owl/d/kaggle/hillary-clinton-emails/president-2016-nltk","lastRunDate":"2016-03-06T07:06:09.453Z","totalVotes":85},{"name":"Map of Foreign Policy through HRC emails","url":"/ampaho/d/kaggle/hillary-clinton-emails/foreign-policy-map-through-hrc-s-emails","lastRunDate":"2015-09-21T00:03:08.813Z","totalVotes":48},{"name":"Exploring Hillary Clinton\u0027s Emails","url":"/benhamner/d/kaggle/hillary-clinton-emails/exploring-hillary-clinton-s-emails","lastRunDate":"2015-09-11T20:10:20.02Z","totalVotes":33}],"discussions":[{"title":"President 2016 - NLTK","url":"/the1owl/d/kaggle/hillary-clinton-emails/president-2016-nltk/discussion","lastPost":"2016-11-18T13:56:36.887Z","totalReplies":11},{"title":"Halloo","url":"/joniwu/d/kaggle/hillary-clinton-emails/halloo/discussion","lastPost":"2016-11-11T15:58:43.077Z","totalReplies":0},{"title":"Countries the most mentioned by Hillary","url":"/ampaho/d/kaggle/hillary-clinton-emails/countries-the-most-mentioned-by-hillary/discussion","lastPost":"2016-10-06T18:57:34.117Z","totalReplies":1}],"contributors":[{"userId":344688,"totalScriptVotes":85,"totalScripts":1,"totalForumMessages":1,"totalForumMessageVotes":4,"totalScore":91.0,"displayName":"the1owl","userUrl":"/the1owl","rank":"1st","userAvatarUrl":"https://kaggle2.blob.core.windows.net/avatars/thumbnails/344688-kg.JPG"},{"userId":361522,"totalScriptVotes":67,"totalScripts":2,"totalForumMessages":5,"totalForumMessageVotes":13,"totalScore":87.0,"displayName":"Olalekan","userUrl":"/ampaho","rank":"2nd","userAvatarUrl":"https://kaggle2.blob.core.windows.net/avatars/thumbnails/default-thumb.png"},{"userId":993,"totalScriptVotes":41,"totalScripts":12,"totalForumMessages":8,"totalForumMessageVotes":5,"totalScore":66.0,"displayName":"Ben Hamner","userUrl":"/benhamner","rank":"3rd","userAvatarUrl":"https://kaggle2.blob.core.windows.net/avatars/thumbnails/993-fb.jpg"}],"licenses":[{"id":1,"description":"Released Under \u003ca href=\u0022https://creativecommons.org/publicdomain/zero/1.0/\u0022 target=\u0022_blank\u0022\u003eCC0: Public Domain License\u003c/a\u003e","displaySequence":1},{"id":3,"description":"Released Under \u003ca href=\u0022https://creativecommons.org/licenses/by-nc-sa/4.0/\u0022 target=\u0022_blank\u0022\u003eCC BY-NC-SA 4.0 License\u003c/a\u003e","displaySequence":2},{"id":8,"description":"Released Under \u003ca href=\u0022https://creativecommons.org/licenses/by-sa/4.0/\u0022 target=\u0022_blank\u0022\u003eCC BY-SA 4.0 License\u003c/a\u003e","displaySequence":3},{"id":5,"description":"Database released under \u003ca href=\u0022http://opendatacommons.org/licenses/odbl/1.0/\u0022 target=\u0022_blank\u0022\u003eOpen Database License\u003c/a\u003e, individual contents under \u003ca href=\u0022http://opendatacommons.org/licenses/dbcl/1.0/\u0022 target=\u0022_blank\u0022\u003eDatabase Contents License\u003c/a\u003e","displaySequence":5},{"id":12,"description":"Other (specified above)","displaySequence":100000},{"id":4,"description":"Unknown License","displaySequence":100001}],"pageMessages":[],"feed":[{"activityType":"scriptComment","url":"/the1owl/d/kaggle/hillary-clinton-emails/president-2016-nltk/comments","userName":"johanna08","userAvatarUrl":"https://kaggle2.blob.core.windows.net/avatars/thumbnails/772349-kg.jpg","date":"2016-11-18T13:56:36.887Z","userDisplayName":"Jane","title":"President 2016 - NLTK","versionNumber":0,"userUrl":"/johanna08"},{"activityType":"scriptRun","url":"/danana/d/kaggle/hillary-clinton-emails/mails","userName":"danana","userAvatarUrl":"https://kaggle2.blob.core.windows.net/avatars/thumbnails/default-thumb.png","date":"2016-11-17T16:13:25.553Z","userDisplayName":"abcd","title":"mails","versionNumber":12,"userUrl":"/danana"},{"activityType":"scriptRun","url":"/johnbx/d/kaggle/hillary-clinton-emails/president-2016-nltk","userName":"johnbx","userAvatarUrl":"https://kaggle2.blob.core.windows.net/avatars/thumbnails/788966-gr.jpg","date":"2016-11-12T10:40:17.403Z","userDisplayName":"johnbx","title":"President 2016 - NLTK","versionNumber":40,"userUrl":"/johnbx"},{"activityType":"script","url":"/sime2015/d/kaggle/hillary-clinton-emails/clinton-emails","userName":"sime2015","userAvatarUrl":"https://kaggle2.blob.core.windows.net/avatars/thumbnails/default-thumb.png","date":"2016-11-11T20:50:31.06Z","userDisplayName":"Sime","title":"clinton_emails","versionNumber":1,"userUrl":"/sime2015"},{"activityType":"scriptRun","url":"/demonstrate/d/kaggle/hillary-clinton-emails/title","userName":"demonstrate","userAvatarUrl":"https://kaggle2.blob.core.windows.net/avatars/thumbnails/default-thumb.png","date":"2016-11-11T17:44:11.007Z","userDisplayName":"demonstrate","title":"Title","versionNumber":4,"userUrl":"/demonstrate"}],"privateGroups":[],"owners":[],"discussion":{"canDownvote":false,"id":798,"isSubscribed":false},"newTopicUrl":"/forums/topics/new?forumId=798","currentTab":"home","topicId":null,"isNewTopic":false,"newTopic":{"authorRanking":null,"authorTier":"novice","authorType":"topic","forumId":798,"parentName":"Hillary Clinton\u0027s Emails","parentUrl":"/kaggle/hillary-clinton-emails"},"datasetId":10,"title":"Hillary Clinton\u0027s Emails","overview":"Uncover the political landscape in Hillary Clinton\u0027s emails","licenseId":1,"description":"Throughout 2015, Hillary Clinton has been embroiled in [controversy](https://en.wikipedia.org/wiki/Hillary_Clinton_email_controversy) over the use of personal email accounts on non-government servers during her time as the United States Secretary of State. Some political experts and opponents maintain that Clinton\u0027s use of personal email accounts to conduct Secretary of State affairs is in violation of protocols and federal laws that ensure appropriate recordkeeping of government activity. Hillary\u0027s campaign has provided their own four sentence summary of her email use [here](https://www.hillaryclinton.com/hillarys-emails-four-sentences/). \n\nThere have been a number of Freedom of Information [lawsuits](https://en.wikipedia.org/wiki/Hillary_Clinton_email_controversy#Freedom_of_Information_lawsuits) filed over the State Department\u0027s failure to fully release the emails sent and received on Clinton\u0027s private accounts. On Monday, August 31, the State Department released nearly 7,000 pages of Clinton\u0027s heavily redacted emails (its biggest release of emails to date). \n\nThe documents were released by the State Department as PDFs. We\u0027ve cleaned and normalized the released documents and are hosting them for public analysis. Kaggle\u0027s choice to host this dataset is not meant to express any particular political affiliation or intent. \n\nHere\u0027s the [code that creates this data release](https://github.com/benhamner/hillary-clinton-emails).","slug":"hillary-clinton-emails","isPublished":true,"isRemoved":false,"isFeatured":true,"organizationId":null,"privateGroupId":null,"files":[{"id":1470,"name":"Aliases.csv","url":"/kaggle/hillary-clinton-emails/downloads/Aliases.csv","description":" - **Id** - unique identifier for internal reference\n - **Alias** - text in the From/To email fields that refers to the person\n - **PersonId** - person that the alias refers to","totalBytes":20489,"blobToken":null,"previewUrl":"/kaggle/hillary-clinton-emails/preview/Aliases.csv/2","fileType":".csv","downloadUrl":"/kaggle/hillary-clinton-emails/downloads/Aliases.csv","relativePath":"../input/Aliases.csv","isSqliteTable":false,"totalRows":0,"columns":null},{"id":1471,"name":"database.sqlite","url":"/kaggle/hillary-clinton-emails/downloads/database.sqlite.zip","description":"This SQLite database contains all of the tables (Emails, Persons, Aliases, and EmailReceivers) with their corresponding fields. You can see the schema and ingest code under scripts/sqlImport.sql","totalBytes":7397138,"blobToken":null,"previewUrl":"/kaggle/hillary-clinton-emails/preview/database.sqlite.zip/2","fileType":".sqlite","downloadUrl":"/kaggle/hillary-clinton-emails/downloads/database.sqlite.zip","relativePath":"../input/database.sqlite","isSqliteTable":false,"totalRows":0,"columns":null},{"id":1472,"name":"EmailReceivers.csv","url":"/kaggle/hillary-clinton-emails/downloads/EmailReceivers.csv","description":" - **Id** - unique identifier for internal reference\n - **EmailId** - Id of the email\n - **PersonId** - Id of the person that received the email","totalBytes":120242,"blobToken":null,"previewUrl":"/kaggle/hillary-clinton-emails/preview/EmailReceivers.csv/2","fileType":".csv","downloadUrl":"/kaggle/hillary-clinton-emails/downloads/EmailReceivers.csv","relativePath":"../input/EmailReceivers.csv","isSqliteTable":false,"totalRows":0,"columns":null},{"id":1473,"name":"Emails.csv","url":"/kaggle/hillary-clinton-emails/downloads/Emails.csv.zip","description":" - **Id** - unique identifier for internal reference\n - **DocNumber** - FOIA document number\n - **MetadataSubject** - Email SUBJECT field (from the FOIA metadata)\n - **MetadataTo** - Email TO field (from the FOIA metadata)\n - **MetadataFrom** - Email FROM field (from the FOIA metadata)\n - **SenderPersonId** - PersonId of the email sender (linking to Persons table)\n - **MetadataDateSent** - Date the email was sent (from the FOIA metadata)\n - **MetadataDateReleased** - Date the email was released (from the FOIA metadata)\n - **MetadataPdfLink** - Link to the original PDF document (from the FOIA metadata)\n - **MetadataCaseNumber** - Case number (from the FOIA metadata)\n - **MetadataDocumentClass** - Document class (from the FOIA metadata)\n - **ExtractedSubject** - Email SUBJECT field (extracted from the PDF)\n - **ExtractedTo** - Email TO field (extracted from the PDF)\n - **ExtractedFrom** - Email FROM field (extracted from the PDF)\n - **ExtractedCc** - Email CC field (extracted from the PDF)\n - **ExtractedDateSent** - Date the email was sent (extracted from the PDF)\n - **ExtractedCaseNumber** - Case number (extracted from the PDF)\n - **ExtractedDocNumber** - Doc number (extracted from the PDF)\n - **ExtractedDateReleased** - Date the email was released (extracted from the PDF)\n - **ExtractedReleaseInPartOrFull** - Whether the email was partially censored (extracted from the PDF)\n - **ExtractedBodyText** - Attempt to only pull out the text in the body that the email sender wrote (extracted from the PDF)\n - **RawText** - Raw email text (extracted from the PDF)","totalBytes":6740272,"blobToken":null,"previewUrl":"/kaggle/hillary-clinton-emails/preview/Emails.csv.zip/2","fileType":".csv","downloadUrl":"/kaggle/hillary-clinton-emails/downloads/Emails.csv.zip","relativePath":"../input/Emails.csv","isSqliteTable":false,"totalRows":0,"columns":null},{"id":1474,"name":"hashes.txt","url":"/kaggle/hillary-clinton-emails/downloads/hashes.txt","description":"File hashes","totalBytes":398,"blobToken":null,"previewUrl":"/kaggle/hillary-clinton-emails/preview/hashes.txt/2","fileType":".txt","downloadUrl":"/kaggle/hillary-clinton-emails/downloads/hashes.txt","relativePath":"../input/hashes.txt","isSqliteTable":false,"totalRows":0,"columns":null},{"id":1475,"name":"Persons.csv","url":"/kaggle/hillary-clinton-emails/downloads/Persons.csv","description":" - **Id** - unique identifier for internal reference\n - **Name** - person\u0027s name","totalBytes":10177,"blobToken":null,"previewUrl":"/kaggle/hillary-clinton-emails/preview/Persons.csv/2","fileType":".csv","downloadUrl":"/kaggle/hillary-clinton-emails/downloads/Persons.csv","relativePath":"../input/Persons.csv","isSqliteTable":false,"totalRows":0,"columns":null},{"id":0,"name":"Aliases","url":null,"description":null,"totalBytes":0,"blobToken":null,"previewUrl":"/kaggle/hillary-clinton-emails/sqlite-preview/Aliases/2","fileType":".sqlitetable","downloadUrl":null,"relativePath":null,"isSqliteTable":true,"totalRows":850,"columns":[{"name":"Id","dataType":"INTEGER","isNullable":true,"isPrimaryKey":true},{"name":"Alias","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"PersonId","dataType":"INTEGER","isNullable":true,"isPrimaryKey":false}]},{"id":0,"name":"EmailReceivers","url":null,"description":null,"totalBytes":0,"blobToken":null,"previewUrl":"/kaggle/hillary-clinton-emails/sqlite-preview/EmailReceivers/2","fileType":".sqlitetable","downloadUrl":null,"relativePath":null,"isSqliteTable":true,"totalRows":9306,"columns":[{"name":"Id","dataType":"INTEGER","isNullable":true,"isPrimaryKey":true},{"name":"EmailId","dataType":"INTEGER","isNullable":true,"isPrimaryKey":false},{"name":"PersonId","dataType":"INTEGER","isNullable":true,"isPrimaryKey":false}]},{"id":0,"name":"Emails","url":null,"description":null,"totalBytes":0,"blobToken":null,"previewUrl":"/kaggle/hillary-clinton-emails/sqlite-preview/Emails/2","fileType":".sqlitetable","downloadUrl":null,"relativePath":null,"isSqliteTable":true,"totalRows":7945,"columns":[{"name":"Id","dataType":"INTEGER","isNullable":true,"isPrimaryKey":true},{"name":"DocNumber","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"MetadataSubject","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"MetadataTo","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"MetadataFrom","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"SenderPersonId","dataType":"INTEGER","isNullable":true,"isPrimaryKey":false},{"name":"MetadataDateSent","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"MetadataDateReleased","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"MetadataPdfLink","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"MetadataCaseNumber","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"MetadataDocumentClass","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"ExtractedSubject","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"ExtractedTo","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"ExtractedFrom","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"ExtractedCc","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"ExtractedDateSent","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"ExtractedCaseNumber","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"ExtractedDocNumber","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"ExtractedDateReleased","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"ExtractedReleaseInPartOrFull","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"ExtractedBodyText","dataType":"TEXT","isNullable":true,"isPrimaryKey":false},{"name":"RawText","dataType":"TEXT","isNullable":true,"isPrimaryKey":false}]},{"id":0,"name":"Persons","url":null,"description":null,"totalBytes":0,"blobToken":null,"previewUrl":"/kaggle/hillary-clinton-emails/sqlite-preview/Persons/2","fileType":".sqlitetable","downloadUrl":null,"relativePath":null,"isSqliteTable":true,"totalRows":513,"columns":[{"name":"Id","dataType":"INTEGER","isNullable":true,"isPrimaryKey":true},{"name":"Name","dataType":"TEXT","isNullable":true,"isPrimaryKey":false}]}],"newVersionFiles":[],"datasetVersions":[{"id":466,"slug":"hillary-clinton-emails","name":"Hillary Clinton\u0027s Emails","creationDate":"2016-10-06T03:04:14.873Z","versionNumber":2,"versionNotes":"Got files correctly in system","thumbnailImageUrl":"https://kaggle2.blob.core.windows.net/datasets-images/10/10/default-backgrounds/dataset-thumbnail.jpg","datasetVersionUrl":"/kaggle/hillary-clinton-emails/version/2","status":"ready"},{"id":10,"slug":"hillary-clinton-emails","name":"Hillary Clinton\u0027s Emails","creationDate":"2015-09-11T01:56:00Z","versionNumber":1,"versionNotes":"Initial release","thumbnailImageUrl":"https://kaggle2.blob.core.windows.net/datasets-images/10/10/default-backgrounds/dataset-thumbnail.jpg","datasetVersionUrl":"/kaggle/hillary-clinton-emails/version/1","status":"ready"}]}), document.getElementById("react-DatasetContainer-1"));
+ReactDOM.render(React.createElement(KaggleReactComponents.SiteHeaderContainer, {}), document.getElementById("react-SiteHeaderContainer-2"));
+
+</script>
+
+
+
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+goog_snippet_vars = function() {
+    var w = window;
+    w.google_conversion_id = 955737689;
+    w.google_conversion_label = "K8aOCJvdz2oQ2czdxwM";
+    w.google_conversion_value = 0.00;
+    w.google_conversion_currency = "USD";
+    w.google_remarketing_only = false;
+}
+// DO NOT CHANGE THE CODE BELOW.
+goog_report_conversion = function(url) {
+    goog_snippet_vars();
+    window.google_conversion_format = "3";
+    var opt = new Object();
+    opt.onload_callback = function() {
+        if (typeof(url) != 'undefined') {
+            window.location = url;
+        }
+    }
+    var conv_handler = window['google_trackConversion'];
+    if (typeof(conv_handler) == 'function') {
+        conv_handler(opt);
+    }
+}
+/* ]]> */
+</script>
+<script type="text/javascript"
+src="//www.googleadservices.com/pagead/conversion_async.js">
+</script>
+
+
+
+
+<!-- Cheers, RD00155D488780p. -->
+
+</body>
+</html>
